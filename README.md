@@ -18,3 +18,5 @@ Train the model using historical real-world data.
 
 Develop a way to effectively back test the model using historical share data so that its
 accuracy can be quantified and improved.
+
+Ensure the method for back testing is sound i.e. Making sure no data is passed back from the future.
