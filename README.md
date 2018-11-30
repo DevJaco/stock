@@ -10,8 +10,11 @@ these data sets are easier to access freely.
 
 Develop an understanding and ability to use various machine learning techniques in
 practical applications.
+
 Develop a model able to make predictions on whether a share price will increase or
 decrease over a set period of time (daily/weekly).
+
 Train the model using historical real-world data.
+
 Develop a way to effectively back test the model using historical share data so that its
 accuracy can be quantified and improved.
